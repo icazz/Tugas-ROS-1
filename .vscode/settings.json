@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/zika/ROS/src/ros",
+    "files.associations": {
+        "*.tcc": "cpp"
+    }
+}

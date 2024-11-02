@@ -1,0 +1,2 @@
+ros
+-DCATKIN_DEVEL_PREFIX=/home/zika/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/zika/ROS/install -G Unix Makefiles
